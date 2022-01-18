@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=The+Nautigal:wght@700&display=swap');
+
+.App {
+  text-align: center;
+}
+h1{
+  font-family: 'Inter', sans-serif;
+  font-family: 'The Nautigal', cursive;
+  font-size: 72px;
+  color: #0acc;
+}
+
